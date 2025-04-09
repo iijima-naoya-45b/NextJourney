@@ -1,0 +1,20 @@
+current directory: /Users/naoyaiijima/Project/KPT/KPTConnectBE/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.6/ext/stringio
+/Users/naoyaiijima/.rbenv/versions/3.2.3/bin/ruby extconf.rb
+/Users/naoyaiijima/.rbenv/versions/3.2.3/bin/ruby: warning: Ruby was built without YJIT support. You may need to install rustc to build Ruby with YJIT.
+creating Makefile
+
+current directory: /Users/naoyaiijima/Project/KPT/KPTConnectBE/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.6/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250408-59197-2cg1o8 sitelibdir\=./.gem.20250408-59197-2cg1o8 clean
+
+current directory: /Users/naoyaiijima/Project/KPT/KPTConnectBE/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.6/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250408-59197-2cg1o8 sitelibdir\=./.gem.20250408-59197-2cg1o8
+compiling stringio.c
+linking shared-object stringio.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/naoyaiijima/Project/KPT/KPTConnectBE/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.6/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250408-59197-2cg1o8 sitelibdir\=./.gem.20250408-59197-2cg1o8 install
+/opt/homebrew/bin/ginstall -c -m 0755 stringio.bundle ./.gem.20250408-59197-2cg1o8
+
+current directory: /Users/naoyaiijima/Project/KPT/KPTConnectBE/vendor/bundle/ruby/3.2.0/gems/stringio-3.1.6/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20250408-59197-2cg1o8 sitelibdir\=./.gem.20250408-59197-2cg1o8 clean
